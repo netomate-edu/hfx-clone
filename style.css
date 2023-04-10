@@ -1,0 +1,15 @@
+.carousel-item {
+    height: 500px;
+    background-image: url('./img/swap_free.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.learn-more-btn {
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+@media (max-width: 567px) {
+    
+}
